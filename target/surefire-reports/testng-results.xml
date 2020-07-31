@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-24T04:55:31Z" name="Assignment" finished-at="2020-07-24T04:55:33Z" duration-ms="1971">
+    <groups>
+    </groups>
+    <test started-at="2020-07-24T04:55:31Z" name="Assignment suite" finished-at="2020-07-24T04:55:33Z" duration-ms="1971">
+      <class name="producttests.GetProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:producttests.GetProductTest@64485a47]" started-at="2020-07-23T21:55:32Z" name="setUp" finished-at="2020-07-23T21:55:32Z" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getInvalidSpecificProduct()[pri:0, instance:producttests.GetProductTest@64485a47]" started-at="2020-07-23T21:55:32Z" name="getInvalidSpecificProduct" finished-at="2020-07-23T21:55:32Z" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidSpecificProduct -->
+        <test-method signature="getValidSpecificProduct()[pri:0, instance:producttests.GetProductTest@64485a47]" started-at="2020-07-23T21:55:32Z" name="getValidSpecificProduct" finished-at="2020-07-23T21:55:32Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValidSpecificProduct -->
+      </class> <!-- producttests.GetProductTest -->
+      <class name="producttests.DeleteProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:producttests.DeleteProductTest@1990a65e]" started-at="2020-07-23T21:55:32Z" name="setUp" finished-at="2020-07-23T21:55:32Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteInvalidSpecificProduct()[pri:0, instance:producttests.DeleteProductTest@1990a65e]" started-at="2020-07-23T21:55:32Z" name="deleteInvalidSpecificProduct" finished-at="2020-07-23T21:55:32Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteInvalidSpecificProduct -->
+        <test-method signature="deleteValidSpecificProduct()[pri:0, instance:producttests.DeleteProductTest@1990a65e]" started-at="2020-07-23T21:55:32Z" name="deleteValidSpecificProduct" finished-at="2020-07-23T21:55:32Z" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteValidSpecificProduct -->
+      </class> <!-- producttests.DeleteProductTest -->
+      <class name="producttests.AddProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:producttests.AddProductTest@782663d3]" started-at="2020-07-23T21:55:30Z" name="setUp" finished-at="2020-07-23T21:55:31Z" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewProduct()[pri:0, instance:producttests.AddProductTest@782663d3]" started-at="2020-07-23T21:55:31Z" name="createNewProduct" finished-at="2020-07-23T21:55:32Z" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewProduct -->
+      </class> <!-- producttests.AddProductTest -->
+      <class name="producttests.UpdateProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:producttests.UpdateProductTest@6ec8211c]" started-at="2020-07-23T21:55:33Z" name="setUp" finished-at="2020-07-23T21:55:33Z" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="updateInValidProduct()[pri:0, instance:producttests.UpdateProductTest@6ec8211c]" started-at="2020-07-23T21:55:33Z" name="updateInValidProduct" finished-at="2020-07-23T21:55:33Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateInValidProduct -->
+        <test-method signature="updateValidSpecificProduct()[pri:0, instance:producttests.UpdateProductTest@6ec8211c]" started-at="2020-07-23T21:55:33Z" name="updateValidSpecificProduct" finished-at="2020-07-23T21:55:33Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateValidSpecificProduct -->
+        <test-method signature="updateWithInValidProductBody()[pri:0, instance:producttests.UpdateProductTest@6ec8211c]" started-at="2020-07-23T21:55:33Z" name="updateWithInValidProductBody" finished-at="2020-07-23T21:55:33Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateWithInValidProductBody -->
+      </class> <!-- producttests.UpdateProductTest -->
+      <class name="producttests.GetProductsTest">
+        <test-method signature="getAllProducts()[pri:0, instance:producttests.GetProductsTest@25bbf683]" started-at="2020-07-23T21:55:32Z" name="getAllProducts" finished-at="2020-07-23T21:55:33Z" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProducts -->
+      </class> <!-- producttests.GetProductsTest -->
+    </test> <!-- Assignment suite -->
+  </suite> <!-- Assignment -->
+</testng-results>

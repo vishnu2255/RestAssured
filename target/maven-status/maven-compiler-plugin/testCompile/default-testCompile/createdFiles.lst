@@ -1,0 +1,6 @@
+producttests/GetProductsTest.class
+producttests/ProductBaseTest.class
+producttests/UpdateProductTest.class
+producttests/AddProductTest.class
+producttests/GetProductTest.class
+producttests/DeleteProductTest.class

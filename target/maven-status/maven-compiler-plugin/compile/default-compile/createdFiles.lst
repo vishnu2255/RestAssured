@@ -1,0 +1,5 @@
+util/ApiUtilities.class
+util/GlobalDataUtilities.class
+template/Product.class
+util/PropertiesReader.class
+api/ProductApi.class

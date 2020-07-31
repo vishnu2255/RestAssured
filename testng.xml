@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Assignment" verbose="1" >
+    <test name="Assignment suite" >
+        <classes>
+            <class name="producttests.AddProductTest"/>
+            <class name="producttests.DeleteProductTest"/>
+            <class name="producttests.GetProductTest"/>
+            <class name="producttests.GetProductsTest"/>
+            <class name="producttests.UpdateProductTest"/>
+        </classes>
+    </test>
+</suite>
